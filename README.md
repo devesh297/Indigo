@@ -1,0 +1,1 @@
+This project aims to provide real-time flight status updates and notifications to passengers. The system is designed to display current flight status, including delays, cancellations, and gate changes. Additionally, it sends push notifications via SMS, email, or app notifications using technologies like Kafka and RabbitMQ
